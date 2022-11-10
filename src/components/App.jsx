@@ -11,7 +11,7 @@ const App = (props) => {
   return (
     <div class="emojipedia mt-5">
       <div class="container">
-        <h1>Emoji Pedia</h1>
+        <h1>EmojiPedia</h1>
         <div class="row">{emojiData.map(renderEmoji)}</div>
       </div>
     </div>
