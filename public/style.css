@@ -1,0 +1,21 @@
+h1 {
+  font-size: 50px;
+  color: green;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.card span {
+  font-size: 50px;
+}
+.card h2 {
+  font-size: 30px;
+  margin: 16px 0;
+}
+.card p {
+  max-height: 100px;
+  overflow: hidden;
+  text-emphasis: ellipse;
+}
+.card {
+  text-align: center;
+}
